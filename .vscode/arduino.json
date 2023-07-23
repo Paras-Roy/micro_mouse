@@ -1,0 +1,7 @@
+{
+    "board": "arduino:avr:uno",
+    "port": "/dev/tty.usbserial-110",
+    "sketch": "src/core/micro_mouse.ino",
+    "output": "build/micro_mouse.hex",
+    "programmer": "arduinoasisp"
+}
